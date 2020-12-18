@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77b5cace.chunk.css",
+    "main.js": "/static/js/main.8f27221b.chunk.js",
+    "main.js.map": "/static/js/main.8f27221b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e46c16f4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e46c16f4.js.map",
+    "static/css/2.5a2f7233.chunk.css": "/static/css/2.5a2f7233.chunk.css",
+    "static/js/2.b3d779be.chunk.js": "/static/js/2.b3d779be.chunk.js",
+    "static/js/2.b3d779be.chunk.js.map": "/static/js/2.b3d779be.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.de51cda39896e48a71c271c46005f4ad.js": "/precache-manifest.de51cda39896e48a71c271c46005f4ad.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5a2f7233.chunk.css.map": "/static/css/2.5a2f7233.chunk.css.map",
+    "static/css/main.77b5cace.chunk.css.map": "/static/css/main.77b5cace.chunk.css.map",
+    "static/js/2.b3d779be.chunk.js.LICENSE.txt": "/static/js/2.b3d779be.chunk.js.LICENSE.txt",
+    "static/media/bubble2.svg": "/static/media/bubble2.5949d885.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e46c16f4.js",
+    "static/css/2.5a2f7233.chunk.css",
+    "static/js/2.b3d779be.chunk.js",
+    "static/css/main.77b5cace.chunk.css",
+    "static/js/main.8f27221b.chunk.js"
+  ]
+}
