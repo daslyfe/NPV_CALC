@@ -82,7 +82,7 @@ export let styles = {
 const calcCanvas = {
   position: "absolute",
   top: "0",
-  left: "12%",
+  left: "0",
   background: styles.canvasColor,
   height: "50vw",
   width: "74vw",
